@@ -1,1 +1,2 @@
-# Job-Search-React-Native
+# Job-Search-React-Native - october 2023
+This is my first attempt to get familiar with React Native. It's a project I did with a tutorial from YouTube, and through it, I learned how to create a React Native app and how it works.
